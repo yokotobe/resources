@@ -13,7 +13,7 @@
 
 # REST API Toolset
 
-  - [Swagger](https://swagger.io) An pen source and professional API toolset
+  - [Swagger](https://swagger.io) An open source and professional API toolset
   - [Insomnia](https://insomnia.rest) All-in-one tools, from design to testing
 
 
